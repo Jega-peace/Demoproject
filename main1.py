@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-st.title("Hi Buddy")
+st.title("Hi Jega")
 with st.sidebar:
     select = option_menu(
        menu_title ='project title',
